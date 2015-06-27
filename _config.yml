@@ -1,11 +1,10 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
-twitter_username: 
-avatar: "" # Set footer avatar
+title: Travel Blog  
+email: upgradedspicy@gmail.com  
+description: Fun blog about traveling
+baseurl: "/Travel-blog"
+twitter_username: @upgradedspicy
+avatar: "https://pbs.twimg.com/profile_images/463232121663143936/QIeky48k.jpeg" # Set footer avatar
 paginate: 3
 
 # Build settings
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Christopher Black" # Set default author name
+      categories: "places"
       layout: "post"
       comments: true
   -
